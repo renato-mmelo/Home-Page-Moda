@@ -13,6 +13,10 @@ body {
     margin: 1.25em auto;
 }
 
+#principal img{
+    width: 100%;
+}
+
 .header-top {
     background-color: rgba(115, 21, 182, 0.673);
     display: flex;
@@ -30,6 +34,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 
 .nav_menu li {
     display: inline-block;
